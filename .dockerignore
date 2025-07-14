@@ -1,0 +1,18 @@
+# IDEとかOSの設定ファイル
+*.iml
+.idea/
+*.swp
+.DS_Store
+
+# Gitリポジトリ情報
+.git
+.gitignore
+
+# OSやエディタが作る不要ファイル
+Thumbs.db
+*.log
+
+# Mavenやビルド関係
+# target/
+# *.war
+.env
